@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampathgurujala&label=Profile%20views&color=0e75b6&style=flat" alt="sampathgurujala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampathgurujala" alt="sampathgurujala" /></a> </p>
+- 🌱 I’m currently mastering **System Design Practices**
 
-- 📫 How to reach me **gurulasampath99@gmail.com**
+- 💬 Lets Collaborate and Discuss on **Web Applications, Amazon Web Services, Containerized Deployments**
+
+- 📫 How to reach me **gurujalasampath99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
